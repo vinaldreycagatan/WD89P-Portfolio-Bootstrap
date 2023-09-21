@@ -1,0 +1,292 @@
+.navbar {
+    height: 70px;
+    margin-top: 50px;
+}
+
+.navbar-brand {
+    margin-top: 10px;
+}
+
+.page-first {
+    padding: 40px 0 40px 0;
+    background-image: url(images/luffy-gear-5.jpg);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position-y: -110px;
+    /* height: 100%; */
+}
+
+.port-text {
+    color: #27005D;
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.folio-text {
+    color: #9400FF;
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.nav-item {
+    font-size: 24px;
+    font-family: 'Alfa Slab One', cursive;
+    /* color: #6123dc; */
+}
+
+.name-holder {
+    margin-top: 571px;
+    padding-top: 50px;
+}
+
+.job-holder {
+    margin-top: -25px;
+    padding-bottom: 45px;
+}
+
+.dev-name {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 100px;
+    color: #AED2FF;
+    text-shadow:
+    -1px -1px 0 #27005D,
+    1px -1px 0 #27005D,
+    -1px 1px 0 #27005D,
+    1px 1px 0 #27005D;
+}
+
+.job-name {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 50px;
+    color: #27005D;
+}
+
+.front-end-text {
+    color: #9400FF;
+    text-shadow:
+    -1px -1px 0 #27005D,
+    1px -1px 0 #27005D,
+    -1px 1px 0 #27005D,
+    1px 1px 0 #27005D;
+}
+
+/* ABOUT ME */
+
+.page-second {
+    padding: 150px 0 196px 0;
+    /* background-color: #E4F1FF; */
+    text-align: center;
+}
+
+.about-me-text {
+    margin-top: 75px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 80px;
+    color: #9400FF;
+    backdrop-filter: blur(2px);
+    padding: 0;
+}
+
+.words-text-holder {
+    color: #27005D;
+    text-align: center;
+    display: inline-block;
+    width: 50%;
+    height: 600px;
+}
+
+.words-text {
+    padding: 0;
+    margin-top: 50px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 24px;
+    backdrop-filter: blur(2px);
+}
+
+/* MY PORTFOLIO */
+
+.portfolio-area {
+    text-align: center;
+    /* background-color: #E4F1FF; */
+    padding: 150px 0 191px 0;
+}
+
+.portfolio-text-holder {
+    /* padding: 0 0 0 0; */
+}
+
+.portfolio-text {
+    padding: 0 0 0 0;
+    /* margin: 0 0 0 0; */
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 80px;
+    color: #9400FF;
+    /* backdrop-filter: blur(2px); */
+}
+
+.buttons-area {
+    /* padding: 0 0 30px 0; */
+}
+
+.button-1, .button-2, .button-3 {
+    height: 350px;
+    width: 350px;
+    color: white;
+}
+
+.button-1 {
+    background-image: url(images/luffy-1.jpeg);
+}
+
+.button-2 {
+    background-image: url(images/luffy-2.jpeg);
+}
+
+.button-3 {
+    background-image: url(images/luffy-3.jpeg);
+}
+
+.see-more {
+    font-size: 36px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    padding: 10px 20px 10px 20px ;
+    background-color: #27005D;
+    color:#AED2FF;
+    border-radius: 25px;
+    margin-top: 40px;
+    border-width: 1px;
+}
+
+/* CONTACT ME */
+
+.contact-me-div {
+    /* background-color: #8657e4; */
+    padding: 100px 0 102px 0;
+}
+
+.contact-text-holder {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.contact-text {
+    margin: 0 0 0 0;
+    display: inline;
+    font-size: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    color: #9400FF;
+    backdrop-filter: blur(2px);
+}
+
+.outer-forms-div {
+    text-align: center;
+}
+
+.forms-div {
+    display: inline-flex;
+    width: auto;
+    text-align: center;
+}
+
+.contact-add {
+    width: 450px;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+}
+
+.forms-fields {
+    text-align: center;
+    width: 450px;
+}
+
+.small-box {
+    width: 392px;
+    height: 50px;
+    margin-bottom: 25px;
+    background-color: #5e22d6;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.big-box {
+    width: 392px;
+    height: 200px;
+    background-color: #5e22d6;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    color: whitesmoke;
+    vertical-align: text-top;
+}
+
+.download-button {
+    margin-top: 28px;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    padding: 18px;
+    background-color: #5e22d6;
+    color:whitesmoke;
+    border-radius: 25px;
+    width: 400px;
+}
+
+.submit-button {
+    margin-top: 28px;
+    font-size: 35px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    padding: 18px;
+    background-color: #5e22d6;
+    color:whitesmoke;
+    border-radius: 25px;
+    width: 300px;
+}
+
+.button-div {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.details-div {
+    margin-top: -25px;
+    margin-left: 30px;
+    text-align: left;
+}
+
+.details-text {
+    margin-top: 37px;
+}
+
+.email-icon {
+    height: 24px;
+}
+
+.fb-icon {
+    height: 60px;
+}
+
+/* COPYRIGHT */
+
+.copyright-footer {
+    /* text-align: center; */
+    /* padding: 25px 0 20px 0; */
+    background-color: #5e22d6;
+}
+.copyright-text {
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    color:#27005D;
+}
